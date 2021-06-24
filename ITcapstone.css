@@ -1,0 +1,96 @@
+
+body {
+background: #ffffff;
+text-align: center-left;
+background-repeat: horizontal;
+
+}
+#menu_table {
+		background: #000000;
+		border-spacing: 0px;
+}
+
+#footer_table {
+		background: #f5bd44;
+		border-spacing: 0px;
+}
+
+#menu_table a:link,
+#menu_table a:visited {
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: bold;
+}
+#menu_table a:hover,
+#menu_table a:active{
+	color: #f5bd44;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#menu_table td{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: helvetica;
+	
+}
+
+
+
+#search_link {
+	text-align: left !important;
+}
+
+#form_content {
+	text-align: center;
+	margin: 0px auto;
+	width: 50%;
+}
+.form_content {
+	width: 300px;
+}
+#main {
+width: 800px;
+height:600px;
+
+margin: 25px auto;
+color: #ffffff;
+padding: 40px;
+}
+h1 {
+text-align: center-left;
+font-family; "helvetica";
+font: 24pt;
+padding: 40px;
+
+}
+p {
+font-family: helvetica;
+font-size: 12pt;
+text-align: left;
+text-indent: 40px;
+color: #ffffff;
+}
+#header {
+text-color: #ffffff;
+height; 100vh;
+background-size: cover;
+background-position: center;
+}
+.navbar a {
+float: left;
+display: block;
+color: #000000;
+text-align: left;
+padding: 14px 16 px;
+text-decoration: none;
+}
+
+.search {
+image: ("search-button.png");
+float: right;
+}
+
+
