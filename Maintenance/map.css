@@ -1,0 +1,14 @@
+body {
+    background-color: #FFF;
+}
+#contentContainer {
+    position: absolute;
+    border: 5px black solid;
+    overflow: hidden;
+    cursor: pointer;
+}
+#dot {
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
